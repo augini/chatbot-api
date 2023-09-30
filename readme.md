@@ -1,4 +1,4 @@
-# feathers-chat
+# chatbot-api
 
 > Feathers Basic Application
 
